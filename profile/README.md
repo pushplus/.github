@@ -1,4 +1,5 @@
-## pushplus 推送加
+# pushplus 推送加
+## 消息推送平台
 
 ### 唯一官网：[https://www.pushplus.plus](https://www.pushplus.plus)
 ### 微信公众号：pushplus 推送加
